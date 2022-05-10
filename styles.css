@@ -1,0 +1,96 @@
+body
+{
+     font-family: sans-serif;
+     background: #FFFBF9;
+}
+
+nav
+{
+     background: #fecfe3;
+     text-align: center;
+}
+
+h2
+{
+     padding: 1em 1em;
+     text-align: center;
+     color: #FFFBF9;
+     border-radius: 1.5em;
+}
+
+h3
+{
+     text-align: center;
+}
+
+p
+{
+     text-align: center;
+}
+
+.aligning
+{
+     margin-right: 12%;
+     margin-left: 12%;
+}
+
+.homehead
+{
+     background: #e97396;
+}
+
+.hometext
+{
+     color: #e97396; 
+}
+
+.abouthead
+{
+     background: #89ab6a;
+}
+
+.abouttext
+{
+     color: #89ab6a;
+}
+
+.morehead
+{
+     background: #b3dee2;
+}
+
+.moretext
+{
+     color: #b3dee2;
+}
+
+.card
+{
+     width: 21em;
+}
+
+.emhead
+{
+     background: #ea9ab2;
+}
+
+.emtext
+{
+     color: #ea9ab2;
+}
+
+a
+{
+     text-decoration: none;
+}
+
+ol
+{
+     list-style-type: none;
+}
+
+button
+{
+         width: 21em;  
+}
+
